@@ -1,5 +1,10 @@
 def roll_call_dwarves# code an argument here
-  # Your code here
+  
+  array ["Doc", "Dopey", "Bashful", "Grumpy"]
+  
+  
+  
+  
   roll_call_dwarves 
 end
 
