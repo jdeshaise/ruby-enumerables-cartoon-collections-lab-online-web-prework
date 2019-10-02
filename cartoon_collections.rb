@@ -2,8 +2,8 @@ def roll_call_dwarves# code an argument here
   
   array ["Doc", "Dopey", "Bashful", "Grumpy"]
   
-  
-  
+  array =[1] =0
+    
   
   roll_call_dwarves 
 end
